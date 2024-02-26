@@ -1,0 +1,4 @@
+repository "FP Cavalry@sotomayornachi05@cloud"
+  path "/"
+    br "/main"
+    co "/main"
